@@ -3,10 +3,13 @@ import easyocr
 from googletrans import Translator
 from PIL import Image, ImageDraw, ImageFont
 import tempfile
-import os
+
 
 # === CONFIG ===
-FONT_PATH = "D:/upwork2/chinese_russian/fonts/ttf\DejaVuSans.ttf"
+import os
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+FONT_PATH = os.path.join(BASE_DIR, "fonts", "ttf", "DejaVuSans.ttf")
 FONT_SIZE = 20
 
 

@@ -1,2 +1,2 @@
-chineserussian-izntcqsr4pt3mfvz8ddrav
+chineserussian-ht8xzy8gambdufjpvyka3v
 .streamlit.app
