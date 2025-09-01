@@ -1,7 +1,7 @@
-# Minimal and compatible with Streamlit Cloud
-streamlit>=1.25.0,<1.36.0
-easyocr==1.6.1
-googletrans==4.0.0-rc1
-Pillow==9.5.0
-numpy
+streamlit
+easyocr
+googletrans
+Pillow
 opencv-python-headless
+python-dotenv
+numpy

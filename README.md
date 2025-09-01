@@ -1,0 +1,2 @@
+chineserussian-fmghxeylcs6vaenmrmduyq
+.streamlit.app
